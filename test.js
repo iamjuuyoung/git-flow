@@ -7,3 +7,5 @@ console.log('feature/test')
 console.log('hotfix');
 
 console.log('JIRA-01');
+
+console.log('QA-01');
