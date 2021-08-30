@@ -32,4 +32,4 @@ console.log('JIRA-07');
 
 console.log('BUGFIX-07');
 
-console.log('JIRA-08');
+console.log('JIRA-08-bugfix');
