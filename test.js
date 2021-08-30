@@ -25,3 +25,5 @@ console.log('JIRA-05');
 console.log('BUGFIX_01');
 
 console.log('JIRA-06');
+
+console.log('BUGFIX-06');
