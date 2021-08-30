@@ -4,4 +4,6 @@ console.log('develop');
 
 console.log('feature/test')
 
-console.log('hotfix')
+console.log('hotfix');
+
+console.log('JIRA-01');
