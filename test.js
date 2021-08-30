@@ -9,3 +9,7 @@ console.log('hotfix');
 console.log('JIRA-01');
 
 console.log('QA-01');
+
+console.log('JIRA-02');
+
+console.log('QA-02');
