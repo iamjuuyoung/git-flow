@@ -49,3 +49,5 @@ console.log('JIRA-21');
 console.log('JIRA-30');
 
 console.log('HOT-31');
+
+console.log('JIRA-32');
