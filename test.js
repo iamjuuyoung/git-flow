@@ -53,3 +53,5 @@ console.log('HOT-31');
 console.log('BUGFIX-32');
 
 console.log('BUGFIX-33');
+
+console.log('JIRA-40');
